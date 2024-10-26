@@ -1,1 +1,1 @@
-# An-efficient-approach-for-interpretation-of-Indian-sign-language-using-machine-learning
+# An-efficient-
